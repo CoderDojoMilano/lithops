@@ -45,7 +45,3 @@ Da quello che abbiamo visto, possiamo riassumere che il modo per coltivare i Lit
 
 ### Cosa è un germinatoio-tecnologico?
 
-### Progettiamo e costruiamo insieme il germinatoio tecnologico (fase 1)
-
-- Elenco del materiale
-- Fasi salienti
