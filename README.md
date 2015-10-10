@@ -1,3 +1,4 @@
+(vai sul sito del progetto [Lithops website](http://coderdojomilano.github.io/lithops/))
 # lithops
 
 Benvenuti in LITHOPS: il germinatoio tecnologico, open-source e divertente!
