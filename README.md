@@ -6,6 +6,9 @@ Welcome to LITHOPS: the technological, open-source and led by fun SEED TRAY!
 
 ![Lithops](https://upload.wikimedia.org/wikipedia/commons/d/d2/Lithops_lesliei_ssp._lesliei_v._mariae_Cole_141_01.jpg)
 
+1. [Cosa sono i Lithops?](#user-content-cosa-sono-i-lithops)
+2. [Il germinatoio tecnologico](#user-content-il-progetto-del-germinatoio-tecnologico)
+
 ## Cosa sono i Lithops?
 
 I Lithops sono piccole piante sudafricane adattate a climi aridi. L'adattamento estremo che la caratterizza consiste nell'aver eliminato ogni possibile fonte di dispersione d'acqua: l'altezza delle piante si e' ridotta fino alla scomparsa totale di rami e fusto. I Lithops sono infatti costituita da due sole foglie, carnose e appiattite nella parte superiore, simili a sassi. Le foglie sono saldate fra di loro lungo una spaccatura da cui in primavera nascono altre due foglie in sostituzione delle precedenti e, in autunno, spunta un fiore grosso e dai molti petali gialli o bianchi, simile a una margherita.
@@ -36,3 +39,13 @@ Da quello che abbiamo visto, possiamo riassumere che il modo per coltivare i Lit
 **Dai primi freschi di Agosto a meta' Ottobre**: Ultimo momento in cui le piante sono attive. In questo periodo l'attivita' consiste, per chi ci riesce: nella fioritura, per gli altri: in una piccola crescita finale. In effetti uno degli elementi piu' difficili da determinare o da prevedere nella coltivazione di una pianta e' capire quando la pianta ha raggiunto la ìforza da fioreî. Si tratta del momento, da quando la pianta e' stata riprodotta (per seme, per talea o altro), in cui le sue dimensioni e il suo adattamento al proprio micro ambiente l'hanno resa in grado di investire le proprie forze non piu' nella crescita, nella produzione di foglie e/o di un fusto, ma nel complesso fenomeno della fioritura. Certamente in questa strana incognita entrano in gioco fattori piu' direttamente controllabili come la composizione chimica del terreno e gli eventuali apporti di fertilizzanti. Ad esempio: estremizzando e semplificando la questione, si puo' dire che, dei tre macroelementi necessari alla corretta crescita delle piante, Azoto, Fosforo e Potassio, il primo (N=Azoto) serva alla crescita in generale dei tessuti, il secondo (P=Fosforo) serva alla fioritura e il terzo (K=Potassio) serva alla lignificazione e alla produzione di foglie. Si tratta evidentemente di una semplificazione esagerata, dato che la mancanza completa di uno solo di questi elementi comunque non portaÖ se non alla morte della pianta. Tuttavia e' da tenere a mente che bassissimi livelli di Fosforo, anche in piante per altri versi sani, rendono davvero difficile riuscire a portare la pianta fino alla fioritura. Detto questo, se nella nostra pianta si sono verificate le necessarie condizioni di salute generale (assenza di funghi, patogeni, parassiti), di microclima favorevole (assenza di ristagni d'acqua, di siccita' eccessive, di calori o freddi eccessivi) e di eta' adeguata (una pianta di pochi mesi e' arduo che riesca gia' a fiorire) allora i nostri Lithops creano, all'interno della spaccatura che divide le due foglie, una gemma che lentamente emerge e si apre, dopo qualche settimana, in un fiore cosÏ largo che, in alcune varieta', e' in grado di coprire l'intera pianta.
 
 **Ottobre-Dicembre**: All'arrivo dei primi freddi, le piante smettono di crescere e di fare altre attivita' ìvisibiliî. In realta', internamente, continuano una sorta di crescita latente che permettera' loro, all'inizio della primavera successiva, di riproporsi con nuove foglie e con una sorta di nuova gioventu' che e' difficile non invidiare loro! A quel punto il ciclo annuale ricomincia e cosÏ via per molti anni. In alcuni casi e' anche possibile che, al posto delle due foglie iniziali, ne spuntino quattro (raramente di piu'). Anno dopo anno il singolo Lithops, se ben coltivato (e se, a parte tutto, si e' ben acclimatato lui alle condizioni belle o brutte che siamo riusciti a garantirgli), puo' diventare un cespo. Personalmente non ho esperienza di crescite particolarmente significative, anche perche' prediligo metodi molto spartani di coltivazione. Ma, da una singola pianta sono arrivato in molti casi ad averne quattro o cinque.
+
+
+## Il progetto del germinatoio tecnologico
+
+### Cosa è un germinatoio-tecnologico?
+
+### Progettiamo e costruiamo insieme il germinatoio tecnologico (fase 1)
+
+- Elenco del materiale
+- Fasi salienti
