@@ -19,6 +19,7 @@ Noi che cosa dovremmo quindi realizzare, per i nostri semi?: niente di che, semp
 - temperatura fra i 15 e i 25 °C (meglio se più fresco di notte e più caldo di giorno);
 - luce adeguata, almeno dopo che i semi sono germinati;
 - assenza di predatori (quest'ultima condizione, come vedremo, non è banale come potrebbe sembrare)
+
 Per realizzare tutte queste condizioni, nasce l'idea della **scatola delle semine**
 
 ## Suggerimenti e trucchetti
