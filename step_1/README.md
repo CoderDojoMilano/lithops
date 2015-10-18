@@ -1,5 +1,7 @@
 # Fase 1: Costruiamo il primo prototipo di germinatoio (fase 1)
 
+[Alcune foto del CoderDojo Milano del 17-10-2015](CoderDojo20151017/README.me)
+
 ## Elenco del materiale
 
 - 1 Scatola (rettangolare, 55.5cm x 39cm x 19cm)
