@@ -1,11 +1,13 @@
 # lithops
-
 Benvenuti in LITHOPS: il germinatoio tecnologico, open-source e divertente!
-
-Welcome to LITHOPS: the technological, open-source and led by fun SEED TRAY!
 
 ![Lithops](https://upload.wikimedia.org/wikipedia/commons/d/d2/Lithops_lesliei_ssp._lesliei_v._mariae_Cole_141_01.jpg)
 
+**Link Utili**
+- [sito web Lithops](http://coderdojomilano.github.io/lithops/)
+- [board attività (Trello)](https://trello.com/b/McR95NYa/lithops)
+
+## Indice
 1. [Cosa sono i Lithops?](#user-content-cosa-sono-i-lithops)
 2. [Il germinatoio tecnologico](#user-content-il-progetto-del-germinatoio-tecnologico)
 
@@ -45,7 +47,16 @@ Da quello che abbiamo visto, possiamo riassumere che il modo per coltivare i Lit
 ### Cosa è un germinatoio-tecnologico?
 ![Germinatoio](http://www.cactofili.org/images/plants/dsc03171_medium_172.jpg)
 
-
 ### Il progetto
 
-[Fase 1: Costruiamo il primo prototipo di germinatoio](step_1/README.md)
+#### Cosa ci piacerebbe metterci dentro
+
+- Areazione della scatola
+- Sensore di umidità del terriccio
+- Sistema di innaffiamento
+- Time lapse della crescita
+- Visualizzazione dei dati da remoto
+
+#### Le fasi di realizzazione
+
+- [Fase 1: Costruiamo il primo prototipo di germinatoio](step_1/README.md)

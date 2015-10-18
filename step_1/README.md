@@ -2,11 +2,10 @@
 
 ## Elenco del materiale
 
-- 1 Scatola (dimensione, forma)
-- N Vasetti (dimensione, forma )
+- 1 Scatola (rettangolare, 55.5cm x 39cm x 19cm)
+- 24 Vasetti (rettangolare, _cm x _cm x _cm )
 - X m. striscia illuminazione LED colore ROSSO
 - Y m. striscia illuminazione LED colore BLU
-- Z m. striscia illuminazione LED colore GAMMA
 - W g. terriccio
 - N*coeff. semi
 
@@ -35,6 +34,17 @@ D'altra parte troppa poca acqua porta semplicemente alla disidratazione. Le pian
 Di che colore sono le piante, nella loro maggioranza? La risposta è semplice: verdi. Quindi di quale colore, nella gamma delle lunghezze d'onda possibili, hanno più bisogno? Personalmente sarei stato dell'idea di dire "verde"... Ma sbaglierei. Il colore che vediamo nelle foglie, nei fusti, nelle parti molli delle piante, questo colore così facilmente associato alla natura stessa, corrisponde esattamente alla lunghezza d'onda che *non* serve alle piante per la fotosintesi. E che quindi restituiscono; sono altri i colori, e quindi le lunghezze d'onda, che assorbono.
 
 Questo spiega la ragione dell'apparente contraddizione nel fatto di immaginare un germinatoio con luce rossa e blu. Come accennato, la contraddizione è solo apparente, dato che in realtà rosso e blu sono proprio le lunghezze d'onda che le piante assorbono (e che quindi non vanno a costituire il colore dei tessuti fotosintetizzanti). Per essere più precisi il rapporto stesso fra le due luci dovrebbe essere di circa 4 a 1 a vantaggio delle luci rosse. Tra l'altro è per questa ragione che si trovano in rete molte immagini di germinatoi travestiti apparentemente da discoteche anni '70.
+
+## Realizzazione
+
+### Dimensionamento
+
+La scatola ha una lunghezza di circa 55.5cm ed una profondità di 39cm. Considerando un po' "scarto", la superficie utile del coperchio per l'installazione delle striscioline di illuminazione dovrebbe ricoprire un'area di 1.440cmq, pari ad una potenza di irragiamento di circa 138W (per i dettagli di calcolo [guarda qui](https://docs.google.com/spreadsheets/d/1xajgQuW4uSA6tnMqnAGUhpJfXqwB1AFufzQxHgO6zJg/edit?usp=sharing)).
+
+### L'assemblamento della scatola
+
+Come facciamo a bloccare i vasetti?
+L'idea è quella di creare un reticolo, forando opportunamente la scatola e facendo poi passare del filo (nylon?)...
 
 
 ## Suggerimenti e trucchetti
