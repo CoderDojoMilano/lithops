@@ -43,11 +43,27 @@ Questo spiega la ragione dell'apparente contraddizione nel fatto di immaginare u
 
 La scatola ha una lunghezza di circa 55.5cm ed una profondità di 39cm. Considerando un po' di "scarto", la superficie utile del coperchio per l'installazione delle striscioline di illuminazione dovrebbe ricoprire un'area di 1.440cmq, pari ad una potenza di irragiamento di circa 138W (per i dettagli di calcolo [guarda qui](https://docs.google.com/spreadsheets/d/1xajgQuW4uSA6tnMqnAGUhpJfXqwB1AFufzQxHgO6zJg/edit?usp=sharing)).
 
-### L'assemblamento della scatola
 
-Come facciamo a bloccare i vasetti?
+## Problemi e ipotesi di soluzione
+### Come facciamo a bloccare i vasetti?
 L'idea è quella di creare un reticolo, forando opportunamente la scatola e facendo poi passare del filo (nylon?)...
 
+Oltre a questa idea, che attualmente è quella che sembra più semplice e quindi più realizzabile, ci sono anche queste altre ipotesi:
+- Magneti nella parte bassa (e incava) di ogni vasetto che lavorino in accoppiata con altri magneti al di fuori del vaso.
+- Alloggiamenti di qualche tipo che formino una sorta di griglia all'interno della quale inserire in modo rigido i vasetti. Questa ipotesi dovrebbe superare il problema del ristagno d'acqua all'interno dei vasetti, una volta che questi fossero annaffiati. Il reticolo di solo nylon servirebbe proprio a superare questa problematica.
+- File di vasetti che si blocchino gli uni contro gli altri salvo "filler" ai lati per garantire che non si muovano. Il principale problema di questa ipotesi sarebbe il fatto che rimuovere un singolo vasetto (cosa che può succedere, per controllo della singola semina...) sarebbe molto complessa.
+
+### Come facciamo ad annaffiare i vasetti?
+Le ipotesi di approccio, su questo punto critico, sono ancora ad uno stato iniziale. Riporto tutte quelle discusse, anche le più complesse da realizzare:
+
+- Motore passo-passo che sposta un erogatore d'acqua sul singolo vasetto da annaffiare. Questa versione ha l'importante problema da risolvere del fatto che non è possibile annaffiare i vasetti delle semine dall'alto con un getto (per quanto minimo) d'acqua: una semplice goccia farebbe disperdere i semi, per lo più di dimensione minuscola. Inoltre alterebbe le condizioni chimico-organiche (porterebbe ad accumulo, a lungo temine, di calcare con viraggio verso un ambiente superficialmente alcalino e contribuirebbe a mantenere una popolazione di muschi e alghe sulla superficie);
+- Variazione rispetto alla versione precedente: l'acqua cadrebbe su un imbuto, posto lateralmente rispetto al vaso per non impedire l'illuminazione, e collegato al vaso per mezzo di un tubicino interrato (risolve il problema del far cadere acqua sulle piante)
+- Sistema di abbassamento dei vasi verso contenitori singoli, preventivamente riempiti di acqua.
+- Sistema di abbassamento del singolo vaso verso un fondo della scatola preventivamente allagato, che verrebbe asciugato per aspirazione al termine dell'annaffiatura.
+- Sistemi di tubicini di collegamento singoli verso i vasetti, interrati da un lato nei vasetti e portati "fuori" dal germinatoio, dall'altra estremità, per razionalizzare al di fuori del germinatoio l'attuazione meccanica di quale vasetto bagnare. 
+
+### Come facciamo a sapere quale vasetto annaffiare?
+Attualmente
 
 ## Suggerimenti e trucchetti
 
