@@ -63,7 +63,7 @@ Le ipotesi di approccio, su questo punto critico, sono ancora ad uno stato inizi
 - Sistemi di tubicini di collegamento singoli verso i vasetti, interrati da un lato nei vasetti e portati "fuori" dal germinatoio, dall'altra estremità, per razionalizzare al di fuori del germinatoio l'attuazione meccanica di quale vasetto bagnare. 
 
 ### Come facciamo a sapere quale vasetto annaffiare?
-Attualmente
+Attualmente stiamo valutando sensori di umidità particolarmente a basso costo (circa 1 Euro a sensore...). 
 
 ## Suggerimenti e trucchetti
 
