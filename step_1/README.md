@@ -37,6 +37,17 @@ Di che colore sono le piante, nella loro maggioranza? La risposta è semplice: v
 
 Questo spiega la ragione dell'apparente contraddizione nel fatto di immaginare un germinatoio con luce rossa e blu. Come accennato, la contraddizione è solo apparente, dato che in realtà rosso e blu sono proprio le lunghezze d'onda che le piante assorbono (e che quindi non vanno a costituire il colore dei tessuti fotosintetizzanti). Per essere più precisi il rapporto stesso fra le due luci dovrebbe essere di circa 4 a 1 a vantaggio delle luci rosse. Tra l'altro è per questa ragione che si trovano in rete molte immagini di germinatoi travestiti apparentemente da discoteche anni '70.
 
+### Non è vero che in vaso si sta male
+**Coltivare piante in vaso è un po' barare**. Nel loro ambiente naturale ogni pianta, non solo i nostri Lithops, si è abituata, nel corso di milioni d'anni, a sopravvivere alle condizioni microclimatiche e a tutte le avversità, sviluppando capacità, resistenze, meccanismi e quanto altro per sopravvivere e riprodursi. Esistono solo pochissimi casi, in natura, di piante che si siano adattate a vivere "in vaso" (ad esempio: i Sempervivum sono piante grasse che vivono sulle montagne europee e possono sopravvivere nelle spaccature delle rocce riempite di terra, che sono la cosa più simile a un vaso). 
+Eppure noi pretendiamo che le nostre piante, adatte al silenzio sterminato e arido di un semideserto pieno solo di terra, possano vivere in una scatola di plastica o di coccio, con solo un pugno di terra e con un essere vociante e rumoroso che le annaffia, per lo più a sproposito; e che, in questo contesto, fioriscano anche!
+Dove sta allora il trucco, dato che di trucco si deve parlare, visto che (a volte) questa cosa riesce anche? Il trucco consiste nell'aver creato un ambiente estremamente più favorevole alla vita. Elenchiamo, giusto per focalizzare l'attenzione, le differenze con l'ambiente naturale:
+
+- Nell'ambiente naturale sopravvive la popolazione, composta da decine di migliaia di individui - nel nostro vaso abbiamo una o due piante, raramente di più, e le _curiamo_ perché sopravvivano;
+- Nell'ambiente naturale, di centinaia di migliaia di semi seminati nel corso del tempo, sono sopravvissuti solo quelli che si sono trovati nelle condizioni favorevoli (quelli caduti sulla pietra, sulla sabbia... in bocca a un mangiatore di semi, non sono diventati adulti) - nel nostro vaso la pianta che abbiamo comprato o seminato è stata messa a dimora in un ambiente _scientificamente_ favorevole;
+- Nell'ambiente naturale è pieno di predatori, grandi o piccoli, interessati a sfamarsi o a dissetarsi a danno dei vegetali; la popolazione nel suo complesso, normalmente, riesce a sopravvivere ugualmente - nel nostro vaso non ci sono predatori.
+- Nell'ambiente naturale dei Lithops, a volte non piove per mesi o per anni; molte piante ne muoiono - nel nostro vaso l'acqua abbonda piuttosto che mancare.
+ 
+
 ## Realizzazione
 
 ### Dimensionamento
