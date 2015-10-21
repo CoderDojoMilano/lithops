@@ -61,7 +61,7 @@ A titolo di esempio, ma con sperimentazione tutt'ora in atto per adattarla al me
 
 ### Dimensionamento
 
-La scatola ha una lunghezza di circa 55.5cm ed una profondità di 39cm. Considerando un po' di "scarto", la superficie utile del coperchio per l'installazione delle striscioline di illuminazione dovrebbe ricoprire un'area di 1.440cmq, pari ad una potenza di irragiamento di circa 138W (per i dettagli di calcolo [guarda qui](https://docs.google.com/spreadsheets/d/1xajgQuW4uSA6tnMqnAGUhpJfXqwB1AFufzQxHgO6zJg/edit?usp=sharing)).
+La scatola ha una lunghezza di circa 55.5cm ed una profondità di 39cm. Considerando un po' di "scarto", la superficie utile del coperchio per l'installazione delle striscioline di illuminazione dovrebbe ricoprire un'area di 1.440cmq, pari ad una potenza di irraggiamento di circa 138W (per i dettagli di calcolo [guarda qui](https://docs.google.com/spreadsheets/d/1xajgQuW4uSA6tnMqnAGUhpJfXqwB1AFufzQxHgO6zJg/edit?usp=sharing)).
 
 
 ## Problemi e ipotesi di soluzione
