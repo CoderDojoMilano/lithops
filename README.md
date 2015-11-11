@@ -1,4 +1,6 @@
-# lithops
+![lithops logo](images/lithops.png)
+
+
 Benvenuti in LITHOPS: il germinatoio tecnologico, open-source e divertente!
 
 ![Lithops](https://upload.wikimedia.org/wikipedia/commons/d/d2/Lithops_lesliei_ssp._lesliei_v._mariae_Cole_141_01.jpg)
