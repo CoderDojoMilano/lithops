@@ -6,7 +6,9 @@ Benvenuti in LITHOPS: il germinatoio tecnologico, open-source e divertente!
 **Link Utili**
 - [sito web Lithops](http://coderdojomilano.github.io/lithops/)
 - [board attività (Trello)](https://trello.com/b/McR95NYa/lithops)
-- [Alcune foto del CoderDojo Milano del 17-10-2015](step_1/images/CoderDojo20151017/README.md)
+- [Foto CoderDojo Milano del 17-10-2015](step_1/images/CoderDojo20151017/README.md)
+- [Foto CoderDojo Milano del 21-11-2015](step_1/images/CoderDojo20151121/README.md)
+- [Foto CoderDojo Milano del 12-12-2015](step_1/images/CoderDojo20151212/README.md)
 
 ## Indice
 1. [Cosa sono i Lithops?](#user-content-cosa-sono-i-lithops)
