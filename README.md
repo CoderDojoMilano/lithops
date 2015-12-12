@@ -1,7 +1,5 @@
-# lithops
+![lithops logo](images/lithops.png)
 Benvenuti in LITHOPS: il germinatoio tecnologico, open-source e divertente!
-
-![Lithops](https://upload.wikimedia.org/wikipedia/commons/d/d2/Lithops_lesliei_ssp._lesliei_v._mariae_Cole_141_01.jpg)
 
 **Link Utili**
 - [sito web Lithops](http://coderdojomilano.github.io/lithops/)
@@ -17,6 +15,9 @@ Benvenuti in LITHOPS: il germinatoio tecnologico, open-source e divertente!
 ## Cosa sono i Lithops?
 
 I Lithops sono piccole piante sudafricane adattate a climi aridi. L'adattamento estremo che le caratterizza consiste nell'aver eliminato ogni possibile fonte di dispersione d'acqua: l'altezza delle piante si e' ridotta fino alla scomparsa totale di rami e fusto. I Lithops sono infatti costituiti da due sole foglie, carnose e appiattite nella parte superiore, simili a sassi. Le foglie sono saldate fra di loro lungo una spaccatura lineare da cui in primavera nascono altre due foglie in sostituzione delle precedenti e, in autunno, spunta un fiore grosso e dai molti petali gialli o bianchi, simile a una margherita.
+
+![Lithops](https://upload.wikimedia.org/wikipedia/commons/d/d2/Lithops_lesliei_ssp._lesliei_v._mariae_Cole_141_01.jpg)
+
 __Uno dei principali problemi delle piante che vivono in ambienti aridi e' costituito dal fatto che l'acqua accumulata nei loro tessuti e' una risorsa importante per gli animali erbivori.__
 Per sfuggire a questa sorte i vegetali hanno molte strategie: diventare velenosi, ricoprirsi di spine, nascondersi, ecc. I Peyote hanno scelto la prima strada, i cactus la seconda; i Lithops hanno scelto l'ultima opzione: le due foglie non sono verdi (se non in pochissime specie) ma sono dei colori piu' diversi: dal beige, al grigio, al rossiccio, al giallo, in una infinita' di sfumature e di disegni che le rendono spesso difficilmente distinguibili dai sassi. Nelle foto di piante in habitat si fa effettivamente fatica a capire quali siano sassi e quali no.
 Il nome stesso Lithops significa, in greco, "simile a un sasso" e chiunque abbia visto una di queste piante non fa fatica a capirne la ragione.
