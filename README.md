@@ -1,5 +1,6 @@
 ![lithops logo](images/lithops.png)
-Benvenuti in LITHOPS: il germinatoio tecnologico, open-source e divertente!
+
+# Benvenuti in LITHOPS: il germinatoio tecnologico, open-source e divertente!
 
 **Link Utili**
 - [sito web Lithops](http://coderdojomilano.github.io/lithops/)
