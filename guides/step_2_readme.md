@@ -5,14 +5,14 @@ Lista specie seminate:
 
 - **Vaso n° 18** - *Echinocactus rapa*
 - **Vaso n°  6** - Antimima evoluta
-- **Vaso n°  5** - Leuchtembergia principis
-- **Vaso n°  7** - Lithops naureeniae
+- **Vaso n°  5** - Leuchtembergia principis IDD1056
+- **Vaso n°  7** - Lithops naureeniae C304
 - **Vaso n°  3** - *Epithelantha micromeris SB125*
 - **Vaso n° 15** - Anacampseros meyeri
-- **Vaso n° 14** - Lithops salicola v. "reticulata"
+- **Vaso n° 14** - Lithops salicola v. "reticulata" C087
 - **Vaso n°  8** - *Lapidaria margarethae*
 - **Vaso n° 20** - Lithops herrei "translucens" C236
-- **Vaso n° 16** - Neolloydia conoidea
+- **Vaso n° 16** - Neolloydia conoidea CZ13
 
 Le specie *in corsivo* sono state seminate a partire da semi prelevati dai frutti di piante coltivate da Matteo; le altre specie sono state comprate da un venditore di semi di cactus.
 
@@ -28,5 +28,8 @@ La semina, passo passo, è stata eseguita in questo modo:
 
 La parte della semina in sé è terminata. Da qui in avanti, per i primi giorni occorre mantenere molto alta l'umidità; la luce invece, fino a quanto i semi non avranno germinato, non è significativa. Lo sarà a partire da quando i semi saranno germogliati e delle minuscole palline verdi (1-2 mm di diametro) inizieranno a spuntare dal terreno.
 
+
+Che cosa sono quelle sigle strane vicino ai nomi delle piantine?
+Si tratta di numeri di raccolta dei semi, cioè di un codice, universalmente riconosciuto, che normalmente riporta la sigla di un "raccoglitore" di questi semi nell'ambiente naturale. Così, ad esempio, se il raccoglitore Stephen Brack ha raccolto, in un certo momento una pianta chiamata dai botanici *Epithelantha micromeris* e questa è stata la sua raccolta n° 125, i semi che derivano da quelle piante (poi riprodotte in cattività in serre specializzate) sono oggi conosciute (e commercializzate) con il codice SB125.  
 
 
